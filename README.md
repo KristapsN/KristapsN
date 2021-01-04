@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi, My name is Kristaps Nogobods 👋💻🖱️
+
+- 🔧 What can I do? Check my take on iconic [Minesweaper game](https://github.com/KristapsN/Mine-sweaper)
+- 🧰 My skillset contains HTML5, SCSS, React.js, Redux.js, Vue.js, and writing Unit tests.
+- 💡 I’m open to collaborations and new projects
+- 📫 The best way to contact me is through email: kristaps.nogobods@gmail.com
+- 🙃 Fun fact: Once I learned how to do a backflip, 
+so if I learned that then I believe I can learn anything that seems impossible. 
+So I learned how to code 🤖
+
 
 <!--
 **KristapsN/KristapsN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
