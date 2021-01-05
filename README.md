@@ -6,7 +6,7 @@
   - 🤓 And here is something simple to remember me, [a memory gam](https://github.com/KristapsN/memory-game). 😉
 - 🧰 My skillset contains HTML5, SCSS, React.js, Redux.js, Vue.js, and writing Unit tests.
 - 💡 I’m open for new projects!
-- 📫 If you see something that you like you can find me on [Linkedin](https://www.linkedin.com/in/kristaps-nogobods-86a92759/). 
+- 📫 If you see something that you like you can find me on [Linkedin](www.linkedin.com/in/kristaps-nogobods). 
 - 🙃 Fun fact: Once I learned how to do a backflip, 
 so if I learned that then I believe I can learn anything that seems impossible. 
 So I learned how to code. 🤖
